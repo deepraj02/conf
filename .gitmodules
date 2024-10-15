@@ -1,0 +1,6 @@
+[submodule "flutter_3d_button"]
+	path = flutter_3d_button
+	url = https://github.com/deepraj02/flutter_3d_button
+[submodule "create_packages_for_flutter_FOSS-DDN-March24"]
+	path = create_packages_for_flutter_FOSS-DDN-March24
+	url = https://github.com/deepraj02/flutter_3d_button
